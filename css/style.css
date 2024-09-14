@@ -1,1 +1,16 @@
+.tall-section {
+    height: 1000px; /* Or adjust as needed */
+    background-color: #f8f9fa; /* Distinguishing background color */
+}
+
+/* Navbar styles for mobile dropdown */
+.navbar-toggle {
+    border: none;
+}
+.navbar-toggle .icon-bar {
+    background-color: #333; /* Color of the menu bars */
+}
+.navbar-collapse {
+    background-color: #fff; /* Dropdown background color */
+}
 
